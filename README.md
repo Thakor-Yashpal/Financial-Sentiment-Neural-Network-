@@ -57,9 +57,11 @@ For questions or collaborations, please contact:
 **Yashpalsinh Thakor**  
 Email: thakoryashpal755@gmail.com  
 GitHub: https://github.com/Thakor-Yashpal
+
 ---
 
 kaggle: https://www.kaggle.com/code/yashpalthakor/financial-sentiment-neural-network-01
+
 Kaggle: https://www.kaggle.com/code/yashpalthakor/financial-sentiment-neural-network-02
 
 ---
